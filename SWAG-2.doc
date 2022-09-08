@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#SWAG-2] Como usuário desejo acessar a página de login na loja virtual a fim de visualizar opções de login, cadastro e redefinição de senha.</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://eliezerazevedo.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [SWAG-2]&nbsp;<a href="https://eliezerazevedo.atlassian.net/browse/SWAG-2">Como usuário desejo acessar a página de login na loja virtual a fim de visualizar opções de login, cadastro e redefinição de senha.</a>
+            <span class="subText">
+               Criado: 08/set/22                   &nbsp;Atualizado(a): 08/set/22
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">IN DEVELOPMENT</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Projeto:</b></td>
+        <td width="80%"><a href="https://eliezerazevedo.atlassian.net/secure/BrowseProject.jspa?id=10009">SwagLabsShopping</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Componentes:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versões afetadas:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versões corrigidas:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Tipo:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            História
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Prioridade:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Relator:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="62d870f6278161644007eed0"
+                id="word_reporter_62d870f6278161644007eed0"
+                href="https://eliezerazevedo.atlassian.net/secure/ViewProfile.jspa?accountId=62d870f6278161644007eed0">
+                    Eliezer Gomes de Azevedo
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Responsável:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="62d870f6278161644007eed0"
+                id="word_assignee_62d870f6278161644007eed0"
+                href="https://eliezerazevedo.atlassian.net/secure/ViewProfile.jspa?accountId=62d870f6278161644007eed0">
+                    Eliezer Gomes de Azevedo
+                </a>
+
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolução:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Não resolvido(s)
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votos:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Categorias:</b>
+        </td>
+        <td id="labels-10041-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Nenhum
+                    </td>
+    </tr>
+    
+    	<tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Σ da estimativa de trabalho restante:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Desconhecido
+                    </td>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Estimativa de trabalho restante:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Desconhecido
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Σ de Tempo Gasto:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Desconhecido
+                    </td>
+                <td bgcolor="#f0f0f0" width="20%"><b>Tempo gasto:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap>
+                            Desconhecido
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Σ da Estimativa Original:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Desconhecido
+                    </td>
+                <td bgcolor="#f0f0f0" width="20%"><b>Estimativa original:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap>
+                            Desconhecido
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+<tr><td bgcolor="#f0f0f0" width="20%" valign="top"><b>Subtarefas:</b></td>
+    <td bgcolor="#ffffff" valign="top">
+        <table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            <tr bgcolor="#f0f0f0">
+                <td>
+                    <b>Chave</b><br/>
+                </td>
+                <td>
+                    <b>Resumo</b><br/>
+                </td>
+                <td>
+                    <b>Tipo</b><br/>
+                </td>
+                <td>
+                    <b>Status</b><br/>
+                </td>
+                <td>
+                    <b>Responsável</b><br/>
+                </td>
+            </tr>
+                            <tr>
+                    <td>
+                        <a href="https://eliezerazevedo.atlassian.net/browse/SWAG-4">SWAG-4</a>
+                    </td>
+                    <td valign="top" width="25%">
+                        <a href="https://eliezerazevedo.atlassian.net/browse/SWAG-4">Levantamento e escrita de casos de teste</a>
+                    </td>
+                    <td>
+                        Subtarefa
+                    </td>
+                    <td>
+                        IN DEVELOPMENT
+                    </td>
+                    <td>
+                                                     Eliezer Gomes de Azevedo  &nbsp;
+                                            </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <a href="https://eliezerazevedo.atlassian.net/browse/SWAG-5">SWAG-5</a>
+                    </td>
+                    <td valign="top" width="25%">
+                        <a href="https://eliezerazevedo.atlassian.net/browse/SWAG-5">Execução de testes manuais</a>
+                    </td>
+                    <td>
+                        Subtarefa
+                    </td>
+                    <td>
+                        Tarefas pendentes
+                    </td>
+                    <td>
+                                                     Eliezer Gomes de Azevedo  &nbsp;
+                                            </td>
+                </tr>
+                    </table>
+    </td>
+</tr>
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10020-10041-value" class="value" bgcolor="#ffffff" width="80%">quadro Sprint 1</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Rank:</b></td>
+                <td id="customfield_10019-10041-value" class="value" bgcolor="#ffffff" width="80%">      0|i00093:
+  </td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Descrição</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <ol>
+	<li><b>Valor</b>: a autenticação do usuário é muito importante para que os clientes possam se cadastrar na plataforma com segurança e fazer a navegação sem erros. Essa funcionalidade visa unificar o fluxo de acesso ao site permitindo que o usuário possa se cadastrar, fazer login ou redefinir a senha.</li>
+	<li><b>Narrativa do usuário</b>:
+	<ul>
+		<li><b>Como</b>: cliente</li>
+		<li><b>Eu quero</b>: acessar a página de login do usuário</li>
+		<li><b>Para</b>: visualizar opções de de login, cadastro e redefinição de senha</li>
+	</ul>
+	</li>
+	<li><b>Requisitos</b>
+	<ul>
+		<li>Atores: Clientes</li>
+		<li>Interfaces: Ver documentação em anexo da UI/UX</li>
+		<li>Dados:
+		<ul>
+			<li>Criação de banco de dados/ tabelas para armazenar informações dos clientes cadastrados</li>
+			<li>Criação de API para integração front-end e banco de dados</li>
+			<li>Criação de tela de login para permitir que usuário acesse a página de login e de cadastro do usuário.</li>
+		</ul>
+		</li>
+		<li>Plataforma/Ambiente
+		<ul>
+			<li>Web/Mobile</li>
+			<li>Devem ser configurados ambientes e pipelines para desenvolvimento, homologação do usuário, homologação de QA e produção.</li>
+		</ul>
+		</li>
+		<li>Critérios de aceite:
+		<ul>
+			<li>Usuário deverá visualizar formulário para fazer login e acessar a pagina</li>
+			<li>Usuário deverá visualizar botão para acessar tela de cadastro</li>
+			<li>Usuário deverá visualizar botão para acessar tela de esqueci minha senha</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+</ol>
+
+
+
+
+<p>OU</p>
+
+<p><b>1 . Cenário:</b> Cliente sem cadastro deseja criar uma conta</p>
+
+<p><b>Dado</b> que o cliente esteja na tela de login</p>
+
+<p><b>E</b> não esteja cadastrado no sistema </p>
+
+<p><b>Quando</b> clicar em “criar conta”</p>
+
+<p><b>Então</b> será redirecionado para tela de criação de nova conta.</p>
+
+
+
+<p><b>2. Cenário:</b> Cliente sem cadastro tenta fazer login</p>
+
+<p><b>Dado</b> que o cliente esteja na tela de login</p>
+
+<p><b>E</b> adicione um <em>username</em> não cadastrado</p>
+
+<p><b>Quando</b> clicar em “criar conta”</p>
+
+<p><b>Então</b> uma mensagem surgirá avisando que a conta não existe</p>
+
+
+
+<p><b>3 . Cenário:</b> Cliente com cadastro informa dados incorretos de acesso</p>
+
+<p><b>Dado</b> que o cliente esteja na tela de login</p>
+
+<p><b>E</b> adicione um <em>username</em> correto</p>
+
+<p><b>Mas</b> insira a senha incorreta</p>
+
+<p><b>Quando</b> clicar em “criar conta”</p>
+
+<p><b>Então</b> um mensagem surgirá avisando que a senha está incorreta.</p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+Gerado em Thu Sep 08 18:13:32 UTC 2022 por Eliezer Gomes de Azevedo usando JIRA 1001.0.0-SNAPSHOT#100206-sha1:66dd41fe1f79519cb7e95988cb4f87ed56ed46d6.
+
+</body>
+</html>
